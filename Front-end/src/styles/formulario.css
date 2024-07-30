@@ -1,0 +1,268 @@
+/* Formulario.css */
+.formulario {
+    max-width: 1290px;
+    margin: 30px auto;
+    padding: 20px;
+    border-radius: 30px;
+    background-color: #f9f9f9;
+    box-sizing: border-box;
+    box-shadow: 3px 3px 5px 5px #fd0d0d50;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .app {
+    background-color: black;
+  }
+
+  .container_title_form{
+    width: 100%; 
+    text-align: left;
+    margin-bottom: 20px; 
+  }
+
+  .Title_form{
+    margin: 2%;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+    margin: 10px;
+    margin-left: 60px;
+    width: 200px;
+  }
+
+  .form-groupll {
+    margin-bottom: 15px;
+    margin: 10px;
+    margin-left: 100px;
+    width: 250px;
+  }
+
+  .form-groupll label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    font-size: 12px;
+  }
+
+  .form-groupll input,
+  .form-groupll textarea {
+    width: 130%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    outline: none;
+    border-color: #ccc;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+  }
+
+  .form-groupll select {
+    width: 130%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+
+
+  
+  .form-group label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    font-size: 12px;
+  }
+  
+  .form-group input,
+  .form-group textarea {
+    width: 130%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    outline: none;
+    border-color: #ccc;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+  }
+
+  .form-group select {
+    width: 130%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+
+
+  .button-container {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0;
+    margin-top: 45px;
+  }
+
+  .button-container_one {
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    margin: 10px 0;
+    margin-top: 45px;
+  }
+
+  
+  .sig_btn {
+    display: block;
+    width: 28%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #d93f3f;
+    color: white;
+    font-size: 12px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  .sig_btn:hover {
+    background-color: #f15d5d;
+  }
+  
+
+/* Estilos para tabla con encabezado fijo */
+.table-container {
+  overflow-x: auto; /* Permite desplazamiento horizontal si la tabla es demasiado ancha */
+  margin-left: 12%;
+}
+
+.table {
+  margin-top: 4%;
+  width: 100%;
+}
+
+.table th,
+.table td {
+  padding: 10px; /* Espaciado interno de las celdas */
+  text-align: center; /* Alineación del texto al centro */
+  border: 1px solid #dddcdc;
+  border-radius: 10px 10px 10px 10px;
+  width: 90px; /* Ancho fijo para las celdas */
+  white-space: nowrap; /* Evitar salto de línea */
+  overflow: hidden; /* Ocultar el contenido que desborda */
+  text-overflow: ellipsis; /* Mostrar puntos suspensivos cuando el texto desborda */
+  font-size: x-small;
+}
+
+.table .td_thspecial,
+.table .td_thspecial {
+  padding: 10px; /* Espaciado interno de las celdas */
+  text-align: center; /* Alineación del texto al centro */
+  border: 1px solid #dddcdc;
+  border-radius: 10px 10px 10px 10px;
+  width: 90px; /* Ancho fijo para las celdas */
+  white-space: nowrap; /* Evitar salto de línea */
+  overflow: hidden; /* Ocultar el contenido que desborda */
+  text-overflow: ellipsis; /* Mostrar puntos suspensivos cuando el texto desborda */
+  font-size: x-small;
+}
+
+.table button {
+  background-color: rgb(249, 134, 134);
+  border-radius: 5px 5px 5px 5px ;
+  color: white;
+  font-size: 12px;
+  cursor: pointer;
+  border: none;
+  width: 100%;
+}
+
+.table button:hover{
+  background-color: rgb(245, 94, 94);
+  box-shadow: #5b5b5b;
+} 
+
+.table th {
+  background-color: #f2f2f2; /* Color de fondo para las cabeceras */
+  position: sticky;
+  top: 2; /* Fija la cabecera en la parte superior */
+  z-index: 10; /* Asegura que la cabecera esté por encima del contenido de la tabla */
+}
+
+.table td {
+  vertical-align: top; /* Alineación vertical del contenido de las celdas */
+  font-size: smaller;
+  opacity: 3.5;
+  color: rgb(132, 131, 131);
+}
+
+.container_footer {
+  font-size: 1rem;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  padding: 10px 0;
+  color: rgb(0, 0, 0);
+}
+
+.container_header {
+  width: 100%;
+  height: 9%;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  box-sizing: border-box;
+  box-shadow: 0 5px 10px #f3424250;
+  padding: 0 20px; /* Añade un padding opcional para espaciar los elementos internos */
+}
+
+.container_img_header {
+  flex: 0 0 auto; /* Hace que este div no crezca y mantenga su tamaño según el contenido */
+}
+
+.container_img_header img {
+  width: 90px;
+  margin-right: 10px; /* Ajusta el margen derecho para separar la imagen del título */
+}
+
+.container_title {
+  flex: 1; /* Permite que este div ocupe todo el espacio restante */
+}
+
+.container_title h1 {
+  text-align: center;
+  margin-right: 11%; /* Asegura que no haya margen alrededor del título */
+  font-size: 1.3rem;
+}
+
+.Container_logo {
+  position: absolute; /* O usa absolute si prefieres */
+  top: 0; /* Alinea el contenedor a la parte superior */
+  left: 0; /* Alinea el contenedor a la izquierda */
+  width: 100%; /* Asegúrate de que ocupe todo el ancho */
+  height: 100vh; /* Altura completa de la ventana */
+  overflow: hidden; /* Evita el scroll en este contenedor */
+  background-image: url('./images/Logo-1.png'); /* Ruta de la imagen */
+  background-size: cover; /* Cubre todo el área sin distorsionar */
+  background-repeat: no-repeat; /* Evita repetir la imagen */
+  background-attachment: fixed; /* Mantiene la imagen fija al hacer scroll */
+  background-position: center; /* Centra la imagen */
+  z-index: 999; /* Asegúrate de que tenga un z-index alto */
+}
+
+  /*MEDIA QUERY*/
+
+  @media only screen and (max-width: 415px){
+    .form-groupll,
+    .form-group {
+      margin: 5px;
+      width: 200px;
+      margin-left: 40px;
+    }
+    .container_title h1 {
+      font-size: small;
+    }
+  
+  }
