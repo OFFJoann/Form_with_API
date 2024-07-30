@@ -1,0 +1,1550 @@
+[
+  {
+    "nombComp": "Johan",
+    "tipoDoc": "Cedula de extrangeria",
+    "numDoc": "1",
+    "fechaExp": "12-09-2019",
+    "lugarExp": "Medellin",
+    "fechaNac": "12-01-2001",
+    "lugarNac": "Medellin",
+    "nacionalidad": "Colombiano",
+    "genero": "Masculino",
+    "tipoSangre": "A-",
+    "grupoEtnico": "Ind\u00edgenas",
+    "numCelular": "3006592889",
+    "numTel": "3002986",
+    "email": "johan@gmail.com",
+    "estCivil": "Soltero/a",
+    "cabeFlia": "Si",
+    "numPersHogar": "2",
+    "tieneHijos": "Si",
+    "numHijos": "1",
+    "tienePersonasCargo": "Si",
+    "numeroPersonasCargo": "2",
+    "escolaridad": "Secundaria",
+    "munResidencia": "Medellin",
+    "barrio": "San Pablo",
+    "dirResidencia": "Cl 93 B # 34-50|",
+    "estrato": "2",
+    "zonaUbi": "Urbana",
+    "tipoVivienda": "Arrendada",
+    "hogarComp": "No",
+    "servInternet": "No",
+    "grupo_familiar": [
+      {
+        "nombres_grpfam": "Diego Duque",
+        "tipdocs_grpfam": "Cedula cuidadana",
+        "numdocs_grpfam": "100987287",
+        "parens_grpfam": "Hermano",
+        "oficioescolaridad_grpfam": "Ingeniero",
+        "contactos_grpfam": "3008261298"
+      }
+    ],
+    "personasdisca_grpfam": "Si",
+    "tipodisca_grpfam": "Sensorial",
+    "srv_Electrico": "Si",
+    "srv_Acueducto": "Si",
+    "srv_Gas": "No",
+    "puesto_trabajo": "Auxiliar de sistemas",
+    "dep_Area": "Sistemas",
+    "fecha_Ingreso": "12-09-2022",
+    "tipo_contrato": "Temporal",
+    "jornada_laboral": "Completa",
+    "salario": "1000000",
+    "meses_experiencia": "2",
+    "exp_otras_empresas": [
+      {
+        "empresas_exp": "TP",
+        "cargos_exp": "Analista",
+        "duraciones_exp": "2 A\u00f1os"
+      }
+    ],
+    "habilidades_competencias": [
+      {
+        "habilidades_competencias": "Corro rapido "
+      }
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espa\u00f1ol"
+      }
+    ],
+    "eps": "Sura",
+    "fondo_de_pensiones": "Proteccion",
+    "cesantias": "Proteccion",
+    "enfermedad": "Otros",
+    "espicifique_enfermedad": "Dolor de cabeza",
+    "tratamiento": "No",
+    "medicamento": "Si",
+    "controlMedico": "Si",
+    "alergia_medicamento": "Si",
+    "cualalergia_medicamento": "Asitromicina",
+    "medioTrans": "Autom\u00f3vil",
+    "tiempoTrans": "45 Min",
+    "nomEmg": "Maria Giraldo",
+    "parentEmg": "Mama",
+    "celEmg": "3002812182",
+    "fumador": "Si",
+    "bebidas_Alcoholicas": "No",
+    "actividad_Fisica": "Si",
+    "frecuencia_ActFisica": "Si"
+  },
+  {
+    "nombComp": "Johan",
+    "tipoDoc": "Cedula de extrangeria",
+    "numDoc": "1",
+    "fechaExp": "12-09-2019",
+    "lugarExp": "Medellin",
+    "fechaNac": "12-01-2001",
+    "lugarNac": "Medellin",
+    "nacionalidad": "Colombiano",
+    "genero": "Masculino",
+    "tipoSangre": "A-",
+    "grupoEtnico": "Ind\u00edgenas",
+    "numCelular": "3006592889",
+    "numTel": "3002986",
+    "email": "johan@gmail.com",
+    "estCivil": "Soltero/a",
+    "cabeFlia": "Si",
+    "numPersHogar": "2",
+    "tieneHijos": "Si",
+    "numHijos": "1",
+    "tienePersonasCargo": "Si",
+    "numeroPersonasCargo": "2",
+    "escolaridad": "Secundaria",
+    "munResidencia": "Medellin",
+    "barrio": "San Pablo",
+    "dirResidencia": "Cl 93 B # 34-50|",
+    "estrato": "2",
+    "zonaUbi": "Urbana",
+    "tipoVivienda": "Arrendada",
+    "hogarComp": "No",
+    "servInternet": "No",
+    "grupo_familiar": [
+      {
+        "nombres_grpfam": "Diego Duque",
+        "tipdocs_grpfam": "Cedula cuidadana",
+        "numdocs_grpfam": "100987287",
+        "parens_grpfam": "Hermano",
+        "oficioescolaridad_grpfam": "Ingeniero",
+        "contactos_grpfam": "3008261298"
+      }
+    ],
+    "personasdisca_grpfam": "Si",
+    "tipodisca_grpfam": "Sensorial",
+    "srv_Electrico": "Si",
+    "srv_Acueducto": "Si",
+    "srv_Gas": "No",
+    "puesto_trabajo": "Auxiliar de sistemas",
+    "dep_Area": "Sistemas",
+    "fecha_Ingreso": "12-09-2022",
+    "tipo_contrato": "Temporal",
+    "jornada_laboral": "Completa",
+    "salario": "1000000",
+    "meses_experiencia": "2",
+    "exp_otras_empresas": [
+      {
+        "empresas_exp": "TP",
+        "cargos_exp": "Analista",
+        "duraciones_exp": "2 A\u00f1os"
+      }
+    ],
+    "habilidades_competencias": [
+      {
+        "habilidades_competencias": "Corro rapido "
+      }
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espa\u00f1ol"
+      }
+    ],
+    "eps": "Sura",
+    "fondo_de_pensiones": "Proteccion",
+    "cesantias": "Proteccion",
+    "enfermedad": "Otros",
+    "espicifique_enfermedad": "Dolor de cabeza",
+    "tratamiento": "No",
+    "medicamento": "Si",
+    "controlMedico": "Si",
+    "alergia_medicamento": "Si",
+    "cualalergia_medicamento": "Asitromicina",
+    "medioTrans": "Autom\u00f3vil",
+    "tiempoTrans": "45 Min",
+    "nomEmg": "Maria Giraldo",
+    "parentEmg": "Mama",
+    "celEmg": "3002812182",
+    "fumador": "Si",
+    "bebidas_Alcoholicas": "No",
+    "actividad_Fisica": "Si",
+    "frecuencia_ActFisica": "Si"
+  },
+  {
+    "nombComp": "leonardo",
+    "tipoDoc": "Cedula de extrangeria",
+    "numDoc": "10000",
+    "fechaExp": "12-09-2019",
+    "lugarExp": "Medellin",
+    "fechaNac": "12-01-2001",
+    "lugarNac": "Medellin",
+    "nacionalidad": "Colombiano",
+    "genero": "Masculino",
+    "tipoSangre": "A-",
+    "grupoEtnico": "Ind\u00edgenas",
+    "numCelular": "3006592889",
+    "numTel": "3002986",
+    "email": "johan@gmail.com",
+    "estCivil": "Soltero/a",
+    "cabeFlia": "Si",
+    "numPersHogar": "2",
+    "tieneHijos": "Si",
+    "numHijos": "1",
+    "tienePersonasCargo": "Si",
+    "numeroPersonasCargo": "2",
+    "escolaridad": "Secundaria",
+    "munResidencia": "Medellin",
+    "barrio": "San Pablo",
+    "dirResidencia": "Cl 93 B # 34-50|",
+    "estrato": "2",
+    "zonaUbi": "Urbana",
+    "tipoVivienda": "Arrendada",
+    "hogarComp": "No",
+    "servInternet": "No",
+    "grupo_familiar": [
+      {
+        "nombres_grpfam": "Diego Duque",
+        "tipdocs_grpfam": "Cedula cuidadana",
+        "numdocs_grpfam": "100987287",
+        "parens_grpfam": "Hermano",
+        "oficioescolaridad_grpfam": "Ingeniero",
+        "contactos_grpfam": "3008261298"
+      }
+    ],
+    "personasdisca_grpfam": "Si",
+    "tipodisca_grpfam": "Sensorial",
+    "srv_Electrico": "Si",
+    "srv_Acueducto": "Si",
+    "srv_Gas": "No",
+    "puesto_trabajo": "Auxiliar de sistemas",
+    "dep_Area": "Sistemas",
+    "fecha_Ingreso": "12-09-2022",
+    "tipo_contrato": "Temporal",
+    "jornada_laboral": "Completa",
+    "salario": "1000000",
+    "meses_experiencia": "2",
+    "exp_otras_empresas": [
+      {
+        "empresas_exp": "TP",
+        "cargos_exp": "Analista",
+        "duraciones_exp": "2 A\u00f1os"
+      }
+    ],
+    "habilidades_competencias": [
+      {
+        "habilidades_competencias": "Corro rapido "
+      }
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espa\u00f1ol"
+      }
+    ],
+    "eps": "Sura",
+    "fondo_de_pensiones": "Proteccion",
+    "cesantias": "Proteccion",
+    "enfermedad": "Otros",
+    "espicifique_enfermedad": "Dolor de cabeza",
+    "tratamiento": "No",
+    "medicamento": "Si",
+    "controlMedico": "Si",
+    "alergia_medicamento": "Si",
+    "cualalergia_medicamento": "Asitromicina",
+    "medioTrans": "Autom\u00f3vil",
+    "tiempoTrans": "45 Min",
+    "nomEmg": "Maria Giraldo",
+    "parentEmg": "Mama",
+    "celEmg": "3002812182",
+    "fumador": "Si",
+    "bebidas_Alcoholicas": "No",
+    "actividad_Fisica": "Si",
+    "frecuencia_ActFisica": "Si"
+  },
+  {
+    "nombComp": "Johan",
+    "tipoDoc": "Cedula de extrangeria",
+    "numDoc": "1",
+    "fechaExp": "12-09-2019",
+    "lugarExp": "Medellin",
+    "fechaNac": "12-01-2001",
+    "lugarNac": "Medellin",
+    "nacionalidad": "Colombiano",
+    "genero": "Masculino",
+    "tipoSangre": "A-",
+    "grupoEtnico": "Ind\u00edgenas",
+    "numCelular": "3006592889",
+    "numTel": "3002986",
+    "email": "johan@gmail.com",
+    "estCivil": "Soltero/a",
+    "cabeFlia": "Si",
+    "numPersHogar": "2",
+    "tieneHijos": "Si",
+    "numHijos": "1",
+    "tienePersonasCargo": "Si",
+    "numeroPersonasCargo": "2",
+    "escolaridad": "Secundaria",
+    "munResidencia": "Medellin",
+    "barrio": "San Pablo",
+    "dirResidencia": "Cl 93 B # 34-50|",
+    "estrato": "2",
+    "zonaUbi": "Urbana",
+    "tipoVivienda": "Arrendada",
+    "hogarComp": "No",
+    "servInternet": "No",
+    "grupo_familiar": [
+      {
+        "nombres_grpfam": "Diego Duque",
+        "tipdocs_grpfam": "Cedula cuidadana",
+        "numdocs_grpfam": "100987287",
+        "parens_grpfam": "Hermano",
+        "oficioescolaridad_grpfam": "Ingeniero",
+        "contactos_grpfam": "3008261298"
+      }
+    ],
+    "personasdisca_grpfam": "Si",
+    "tipodisca_grpfam": "Sensorial",
+    "srv_Electrico": "Si",
+    "srv_Acueducto": "Si",
+    "srv_Gas": "No",
+    "puesto_trabajo": "Auxiliar de sistemas",
+    "dep_Area": "Sistemas",
+    "fecha_Ingreso": "12-09-2022",
+    "tipo_contrato": "Temporal",
+    "jornada_laboral": "Completa",
+    "salario": "1000000",
+    "meses_experiencia": "2",
+    "exp_otras_empresas": [
+      {
+        "empresas_exp": "TP",
+        "cargos_exp": "Analista",
+        "duraciones_exp": "2 A\u00f1os"
+      }
+    ],
+    "habilidades_competencias": [
+      {
+        "habilidades_competencias": "Corro rapido "
+      }
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espa\u00f1ol"
+      }
+    ],
+    "eps": "Sura",
+    "fondo_de_pensiones": "Proteccion",
+    "cesantias": "Proteccion",
+    "enfermedad": "Otros",
+    "espicifique_enfermedad": "Dolor de cabeza",
+    "tratamiento": "No",
+    "medicamento": "Si",
+    "controlMedico": "Si",
+    "alergia_medicamento": "Si",
+    "cualalergia_medicamento": "Asitromicina",
+    "medioTrans": "Autom\u00f3vil",
+    "tiempoTrans": "45 Min",
+    "nomEmg": "Maria Giraldo",
+    "parentEmg": "Mama",
+    "celEmg": "3002812182",
+    "fumador": "Si",
+    "bebidas_Alcoholicas": "No",
+    "actividad_Fisica": "Si",
+    "frecuencia_ActFisica": "Si"
+  },
+  {
+    "nombComp": "Johan",
+    "tipoDoc": "Cedula de extrangeria",
+    "numDoc": "1",
+    "fechaExp": "12-09-2019",
+    "lugarExp": "Medellin",
+    "fechaNac": "12-01-2001",
+    "lugarNac": "Medellin",
+    "nacionalidad": "Colombiano",
+    "genero": "Masculino",
+    "tipoSangre": "A-",
+    "grupoEtnico": "Ind\u00edgenas",
+    "numCelular": "3006592889",
+    "numTel": "3002986",
+    "email": "johan@gmail.com",
+    "estCivil": "Soltero/a",
+    "cabeFlia": "Si",
+    "numPersHogar": "2",
+    "tieneHijos": "Si",
+    "numHijos": "1",
+    "tienePersonasCargo": "Si",
+    "numeroPersonasCargo": "2",
+    "escolaridad": "Secundaria",
+    "munResidencia": "Medellin",
+    "barrio": "San Pablo",
+    "dirResidencia": "Cl 93 B # 34-50|",
+    "estrato": "2",
+    "zonaUbi": "Urbana",
+    "tipoVivienda": "Arrendada",
+    "hogarComp": "No",
+    "servInternet": "No",
+    "grupo_familiar": [
+      {
+        "nombres_grpfam": "Diego Duque",
+        "tipdocs_grpfam": "Cedula cuidadana",
+        "numdocs_grpfam": "100987287",
+        "parens_grpfam": "Hermano",
+        "oficioescolaridad_grpfam": "Ingeniero",
+        "contactos_grpfam": "3008261298"
+      }
+    ],
+    "personasdisca_grpfam": "Si",
+    "tipodisca_grpfam": "Sensorial",
+    "srv_Electrico": "Si",
+    "srv_Acueducto": "Si",
+    "srv_Gas": "No",
+    "puesto_trabajo": "Auxiliar de sistemas",
+    "dep_Area": "Sistemas",
+    "fecha_Ingreso": "12-09-2022",
+    "tipo_contrato": "Temporal",
+    "jornada_laboral": "Completa",
+    "salario": "1000000",
+    "meses_experiencia": "2",
+    "exp_otras_empresas": [
+      {
+        "empresas_exp": "TP",
+        "cargos_exp": "Analista",
+        "duraciones_exp": "2 A\u00f1os"
+      }
+    ],
+    "habilidades_competencias": [
+      {
+        "habilidades_competencias": "Corro rapido "
+      }
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espa\u00f1ol"
+      }
+    ],
+    "eps": "Sura",
+    "fondo_de_pensiones": "Proteccion",
+    "cesantias": "Proteccion",
+    "enfermedad": "Otros",
+    "espicifique_enfermedad": "Dolor de cabeza",
+    "tratamiento": "No",
+    "medicamento": "Si",
+    "controlMedico": "Si",
+    "alergia_medicamento": "Si",
+    "cualalergia_medicamento": "Asitromicina",
+    "medioTrans": "Autom\u00f3vil",
+    "tiempoTrans": "45 Min",
+    "nomEmg": "Maria Giraldo",
+    "parentEmg": "Mama",
+    "celEmg": "3002812182",
+    "fumador": "Si",
+    "bebidas_Alcoholicas": "No",
+    "actividad_Fisica": "Si",
+    "frecuencia_ActFisica": "Si"
+  },
+  {
+    "nombComp": "miguel",
+    "tipoDoc": "Cedula cuidadana",
+    "numDoc": "1090481799",
+    "fechaExp": "26-10-2012",
+    "lugarExp": "cucuta",
+    "fechaNac": "02-10-1994",
+    "lugarNac": "cucuta",
+    "nacionalidad": "colombiana",
+    "genero": "Masculino",
+    "tipoSangre": "O-",
+    "grupoEtnico": "N/A",
+    "numCelular": "3108170825",
+    "numTel": "6045655",
+    "email": "miguelmartinez.sistemas@gmail.com",
+    "estCivil": "Soltero/a",
+    "cabeFlia": "No",
+    "numPersHogar": "2",
+    "tieneHijos": "No",
+    "numHijos": "",
+    "tienePersonasCargo": "Si",
+    "numeroPersonasCargo": "1",
+    "escolaridad": "Tecnolog\u00eda",
+    "munResidencia": "antioquia",
+    "barrio": "buenos aires",
+    "dirResidencia": "crr 6a 47a-40",
+    "estrato": "3",
+    "zonaUbi": "Urbana",
+    "tipoVivienda": "Arrendada",
+    "hogarComp": "Si",
+    "servInternet": "Si",
+    "grupo_familiar": [
+      {
+        "nombres_grpfam": "cecilia suarez",
+        "tipdocs_grpfam": "Cedula cuidadana",
+        "numdocs_grpfam": "603318",
+        "parens_grpfam": "madre",
+        "oficioescolaridad_grpfam": "independiente",
+        "contactos_grpfam": "312449911"
+      }
+    ],
+    "personasdisca_grpfam": "No",
+    "tipodisca_grpfam": "",
+    "srv_Electrico": "Si",
+    "srv_Acueducto": "Si",
+    "srv_Gas": "Si",
+    "puesto_trabajo": "desarrollador",
+    "dep_Area": "sistemas",
+    "fecha_Ingreso": "20-03-2024",
+    "tipo_contrato": "Indefinido",
+    "jornada_laboral": "Completa",
+    "salario": "40000",
+    "meses_experiencia": "2",
+    "exp_otras_empresas": [
+      {
+        "empresas_exp": "fgdfdf",
+        "cargos_exp": "bhbiuhb",
+        "duraciones_exp": "uohiuhiu"
+      },
+      {
+        "empresas_exp": "ghifdjihhfd",
+        "cargos_exp": "jkcdsflkj",
+        "duraciones_exp": "djdsfoij"
+      }
+    ],
+    "habilidades_competencias": [
+      {
+        "habilidades_competencias": "fgfdfd"
+      },
+      {
+        "habilidades_competencias": "gfgffd"
+      },
+      {
+        "habilidades_competencias": "ggg"
+      },
+      {
+        "habilidades_competencias": "rrr"
+      }
+    ],
+    "idiomas": [
+      {
+        "idioma": "ingles"
+      },
+      {
+        "idioma": "espa\u00f1ol"
+      }
+    ],
+    "eps": "nueva eps",
+    "fondo_de_pensiones": "proteccion",
+    "cesantias": "proteccion",
+    "enfermedad": "Ninguna",
+    "espicifique_enfermedad": "",
+    "tratamiento": "Si",
+    "medicamento": "Si",
+    "controlMedico": "Si",
+    "alergia_medicamento": "Si",
+    "cualalergia_medicamento": "dddd",
+    "medioTrans": "Transporte p\u00fablico",
+    "tiempoTrans": "45 Min",
+    "nomEmg": "cecilia",
+    "parentEmg": "madre",
+    "celEmg": "3124499102",
+    "fumador": "Si",
+    "bebidas_Alcoholicas": "Si",
+    "actividad_Fisica": "Si",
+    "frecuencia_ActFisica": "Si"
+  },
+  {
+    "nombComp": "Johan",
+    "tipoDoc": "Cedula de extrangeria",
+    "numDoc": "1",
+    "fechaExp": "12-09-2019",
+    "lugarExp": "Medellin",
+    "fechaNac": "12-01-2001",
+    "lugarNac": "Medellin",
+    "nacionalidad": "Colombiano",
+    "genero": "Masculino",
+    "tipoSangre": "A-",
+    "grupoEtnico": "Ind\u00edgenas",
+    "numCelular": "3006592889",
+    "numTel": "3002986",
+    "email": "johan@gmail.com",
+    "estCivil": "Soltero/a",
+    "cabeFlia": "Si",
+    "numPersHogar": "2",
+    "tieneHijos": "Si",
+    "numHijos": "1",
+    "tienePersonasCargo": "Si",
+    "numeroPersonasCargo": "2",
+    "escolaridad": "Secundaria",
+    "munResidencia": "Medellin",
+    "barrio": "San Pablo",
+    "dirResidencia": "Cl 93 B # 34-50|",
+    "estrato": "2",
+    "zonaUbi": "Urbana",
+    "tipoVivienda": "Arrendada",
+    "hogarComp": "No",
+    "servInternet": "No",
+    "grupo_familiar": [
+      {
+        "nombres_grpfam": "Diego Duque",
+        "tipdocs_grpfam": "Cedula cuidadana",
+        "numdocs_grpfam": "100987287",
+        "parens_grpfam": "Hermano",
+        "oficioescolaridad_grpfam": "Ingeniero",
+        "contactos_grpfam": "3008261298"
+      }
+    ],
+    "personasdisca_grpfam": "Si",
+    "tipodisca_grpfam": "Sensorial",
+    "srv_Electrico": "Si",
+    "srv_Acueducto": "Si",
+    "srv_Gas": "No",
+    "puesto_trabajo": "Auxiliar de sistemas",
+    "dep_Area": "Sistemas",
+    "fecha_Ingreso": "12-09-2022",
+    "tipo_contrato": "Temporal",
+    "jornada_laboral": "Completa",
+    "salario": "1000000",
+    "meses_experiencia": "2",
+    "exp_otras_empresas": [
+      {
+        "empresas_exp": "TP",
+        "cargos_exp": "Analista",
+        "duraciones_exp": "2 A\u00f1os"
+      }
+    ],
+    "habilidades_competencias": [
+      {
+        "habilidades_competencias": "Corro rapido "
+      }
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espa\u00f1ol"
+      }
+    ],
+    "eps": "Sura",
+    "fondo_de_pensiones": "Proteccion",
+    "cesantias": "Proteccion",
+    "enfermedad": "Otros",
+    "espicifique_enfermedad": "Dolor de cabeza",
+    "tratamiento": "No",
+    "medicamento": "Si",
+    "controlMedico": "Si",
+    "alergia_medicamento": "Si",
+    "cualalergia_medicamento": "Asitromicina",
+    "medioTrans": "Autom\u00f3vil",
+    "tiempoTrans": "45 Min",
+    "nomEmg": "Maria Giraldo",
+    "parentEmg": "Mama",
+    "celEmg": "3002812182",
+    "fumador": "Si",
+    "bebidas_Alcoholicas": "No",
+    "actividad_Fisica": "Si",
+    "frecuencia_ActFisica": "Si"
+  },
+  {
+    "nombComp": "miguel",
+    "tipoDoc": "Cedula cuidadana",
+    "numDoc": "1090481799",
+    "fechaExp": "26-10-2012",
+    "lugarExp": "cucuta",
+    "fechaNac": "02-10-1994",
+    "lugarNac": "cucuta",
+    "nacionalidad": "colombiana",
+    "genero": "Masculino",
+    "tipoSangre": "O-",
+    "grupoEtnico": "N/A",
+    "numCelular": "3108170825",
+    "numTel": "6045655",
+    "email": "miguelmartinez.sistemas@gmail.com",
+    "estCivil": "Soltero/a",
+    "cabeFlia": "No",
+    "numPersHogar": "2",
+    "tieneHijos": "No",
+    "numHijos": "",
+    "tienePersonasCargo": "Si",
+    "numeroPersonasCargo": "1",
+    "escolaridad": "Tecnolog\u00eda",
+    "munResidencia": "antioquia",
+    "barrio": "buenos aires",
+    "dirResidencia": "crr 6a 47a-40",
+    "estrato": "3",
+    "zonaUbi": "Urbana",
+    "tipoVivienda": "Arrendada",
+    "hogarComp": "Si",
+    "servInternet": "Si",
+    "grupo_familiar": [
+      {
+        "nombres_grpfam": "cecilia suarez",
+        "tipdocs_grpfam": "Cedula cuidadana",
+        "numdocs_grpfam": "603318",
+        "parens_grpfam": "madre",
+        "oficioescolaridad_grpfam": "independiente",
+        "contactos_grpfam": "312449911"
+      }
+    ],
+    "personasdisca_grpfam": "No",
+    "tipodisca_grpfam": "",
+    "srv_Electrico": "Si",
+    "srv_Acueducto": "Si",
+    "srv_Gas": "Si",
+    "puesto_trabajo": "desarrollador",
+    "dep_Area": "sistemas",
+    "fecha_Ingreso": "20-03-2024",
+    "tipo_contrato": "Indefinido",
+    "jornada_laboral": "Completa",
+    "salario": "40000",
+    "meses_experiencia": "2",
+    "exp_otras_empresas": [
+      {
+        "empresas_exp": "fgdfdf",
+        "cargos_exp": "bhbiuhb",
+        "duraciones_exp": "uohiuhiu"
+      },
+      {
+        "empresas_exp": "ghifdjihhfd",
+        "cargos_exp": "jkcdsflkj",
+        "duraciones_exp": "djdsfoij"
+      }
+    ],
+    "habilidades_competencias": [
+      {
+        "habilidades_competencias": "fgfdfd"
+      },
+      {
+        "habilidades_competencias": "gfgffd"
+      },
+      {
+        "habilidades_competencias": "ggg"
+      },
+      {
+        "habilidades_competencias": "rrr"
+      }
+    ],
+    "idiomas": [
+      {
+        "idioma": "ingles"
+      },
+      {
+        "idioma": "espa\u00f1ol"
+      }
+    ],
+    "eps": "nueva eps",
+    "fondo_de_pensiones": "proteccion",
+    "cesantias": "proteccion",
+    "enfermedad": "Ninguna",
+    "espicifique_enfermedad": "",
+    "tratamiento": "Si",
+    "medicamento": "Si",
+    "controlMedico": "Si",
+    "alergia_medicamento": "Si",
+    "cualalergia_medicamento": "dddd",
+    "medioTrans": "Transporte p\u00fablico",
+    "tiempoTrans": "45 Min",
+    "nomEmg": "cecilia",
+    "parentEmg": "madre",
+    "celEmg": "3124499102",
+    "fumador": "Si",
+    "bebidas_Alcoholicas": "Si",
+    "actividad_Fisica": "Si",
+    "frecuencia_ActFisica": "Si"
+  },
+  {
+    "nombComp": "miguel",
+    "tipoDoc": "Cedula cuidadana",
+    "numDoc": "1090481799",
+    "fechaExp": "26-10-2012",
+    "lugarExp": "cucuta",
+    "fechaNac": "02-10-1994",
+    "lugarNac": "cucuta",
+    "nacionalidad": "colombiana",
+    "genero": "Masculino",
+    "tipoSangre": "O-",
+    "grupoEtnico": "N/A",
+    "numCelular": "3108170825",
+    "numTel": "6045655",
+    "email": "miguelmartinez.sistemas@gmail.com",
+    "estCivil": "Soltero/a",
+    "cabeFlia": "No",
+    "numPersHogar": "2",
+    "tieneHijos": "No",
+    "numHijos": "",
+    "tienePersonasCargo": "Si",
+    "numeroPersonasCargo": "1",
+    "escolaridad": "Tecnolog\u00eda",
+    "munResidencia": "antioquia",
+    "barrio": "buenos aires",
+    "dirResidencia": "crr 6a 47a-40",
+    "estrato": "3",
+    "zonaUbi": "Urbana",
+    "tipoVivienda": "Arrendada",
+    "hogarComp": "Si",
+    "servInternet": "Si",
+    "grupo_familiar": [
+      {
+        "nombres_grpfam": "cecilia suarez",
+        "tipdocs_grpfam": "Cedula cuidadana",
+        "numdocs_grpfam": "603318",
+        "parens_grpfam": "madre",
+        "oficioescolaridad_grpfam": "independiente",
+        "contactos_grpfam": "312449911"
+      }
+    ],
+    "personasdisca_grpfam": "No",
+    "tipodisca_grpfam": "",
+    "srv_Electrico": "Si",
+    "srv_Acueducto": "Si",
+    "srv_Gas": "Si",
+    "puesto_trabajo": "desarrollador",
+    "dep_Area": "sistemas",
+    "fecha_Ingreso": "20-03-2024",
+    "tipo_contrato": "Indefinido",
+    "jornada_laboral": "Completa",
+    "salario": "40000",
+    "meses_experiencia": "2",
+    "exp_otras_empresas": [
+      {
+        "empresas_exp": "fgdfdf",
+        "cargos_exp": "bhbiuhb",
+        "duraciones_exp": "uohiuhiu"
+      },
+      {
+        "empresas_exp": "ghifdjihhfd",
+        "cargos_exp": "jkcdsflkj",
+        "duraciones_exp": "djdsfoij"
+      }
+    ],
+    "habilidades_competencias": [
+      {
+        "habilidades_competencias": "fgfdfd"
+      },
+      {
+        "habilidades_competencias": "gfgffd"
+      },
+      {
+        "habilidades_competencias": "ggg"
+      },
+      {
+        "habilidades_competencias": "rrr"
+      }
+    ],
+    "idiomas": [
+      {
+        "idioma": "ingles"
+      },
+      {
+        "idioma": "espa\u00f1ol"
+      }
+    ],
+    "eps": "nueva eps",
+    "fondo_de_pensiones": "proteccion",
+    "cesantias": "proteccion",
+    "enfermedad": "Ninguna",
+    "espicifique_enfermedad": "",
+    "tratamiento": "Si",
+    "medicamento": "Si",
+    "controlMedico": "Si",
+    "alergia_medicamento": "Si",
+    "cualalergia_medicamento": "dddd",
+    "medioTrans": "Transporte p\u00fablico",
+    "tiempoTrans": "45 Min",
+    "nomEmg": "cecilia",
+    "parentEmg": "madre",
+    "celEmg": "3124499102",
+    "fumador": "Si",
+    "bebidas_Alcoholicas": "Si",
+    "actividad_Fisica": "Si",
+    "frecuencia_ActFisica": "Si"
+  },
+  {
+    "nombComp": "miguel",
+    "tipoDoc": "Cedula cuidadana",
+    "numDoc": "1090481799",
+    "fechaExp": "26-10-2012",
+    "lugarExp": "cucuta",
+    "fechaNac": "02-10-1994",
+    "lugarNac": "cucuta",
+    "nacionalidad": "colombiana",
+    "genero": "Masculino",
+    "tipoSangre": "O-",
+    "grupoEtnico": "N/A",
+    "numCelular": "3108170825",
+    "numTel": "6045655",
+    "email": "miguelmartinez.sistemas@gmail.com",
+    "estCivil": "Soltero/a",
+    "cabeFlia": "No",
+    "numPersHogar": "2",
+    "tieneHijos": "No",
+    "numHijos": "",
+    "tienePersonasCargo": "Si",
+    "numeroPersonasCargo": "1",
+    "escolaridad": "Tecnolog\u00eda",
+    "munResidencia": "antioquia",
+    "barrio": "buenos aires",
+    "dirResidencia": "crr 6a 47a-40",
+    "estrato": "3",
+    "zonaUbi": "Urbana",
+    "tipoVivienda": "Arrendada",
+    "hogarComp": "Si",
+    "servInternet": "Si",
+    "grupo_familiar": [
+      {
+        "nombres_grpfam": "cecilia suarez",
+        "tipdocs_grpfam": "Cedula cuidadana",
+        "numdocs_grpfam": "603318",
+        "parens_grpfam": "madre",
+        "oficioescolaridad_grpfam": "independiente",
+        "contactos_grpfam": "312449911"
+      }
+    ],
+    "personasdisca_grpfam": "No",
+    "tipodisca_grpfam": "",
+    "srv_Electrico": "Si",
+    "srv_Acueducto": "Si",
+    "srv_Gas": "Si",
+    "puesto_trabajo": "desarrollador",
+    "dep_Area": "sistemas",
+    "fecha_Ingreso": "20-03-2024",
+    "tipo_contrato": "Indefinido",
+    "jornada_laboral": "Completa",
+    "salario": "40000",
+    "meses_experiencia": "2",
+    "exp_otras_empresas": [
+      {
+        "empresas_exp": "fgdfdf",
+        "cargos_exp": "bhbiuhb",
+        "duraciones_exp": "uohiuhiu"
+      },
+      {
+        "empresas_exp": "ghifdjihhfd",
+        "cargos_exp": "jkcdsflkj",
+        "duraciones_exp": "djdsfoij"
+      }
+    ],
+    "habilidades_competencias": [
+      {
+        "habilidades_competencias": "fgfdfd"
+      },
+      {
+        "habilidades_competencias": "gfgffd"
+      },
+      {
+        "habilidades_competencias": "ggg"
+      },
+      {
+        "habilidades_competencias": "rrr"
+      }
+    ],
+    "idiomas": [
+      {
+        "idioma": "ingles"
+      },
+      {
+        "idioma": "espa\u00f1ol"
+      }
+    ],
+    "eps": "nueva eps",
+    "fondo_de_pensiones": "proteccion",
+    "cesantias": "proteccion",
+    "enfermedad": "Ninguna",
+    "espicifique_enfermedad": "",
+    "tratamiento": "Si",
+    "medicamento": "Si",
+    "controlMedico": "Si",
+    "alergia_medicamento": "Si",
+    "cualalergia_medicamento": "dddd",
+    "medioTrans": "Transporte p\u00fablico",
+    "tiempoTrans": "45 Min",
+    "nomEmg": "cecilia",
+    "parentEmg": "madre",
+    "celEmg": "3124499102",
+    "fumador": "Si",
+    "bebidas_Alcoholicas": "Si",
+    "actividad_Fisica": "Si",
+    "frecuencia_ActFisica": "Si"
+  },
+  {
+    "nombComp": "miguel",
+    "tipoDoc": "Cedula cuidadana",
+    "numDoc": "1090481799",
+    "fechaExp": "26-10-2012",
+    "lugarExp": "cucuta",
+    "fechaNac": "02-10-1994",
+    "lugarNac": "cucuta",
+    "nacionalidad": "colombiana",
+    "genero": "Masculino",
+    "tipoSangre": "O-",
+    "grupoEtnico": "N/A",
+    "numCelular": "3108170825",
+    "numTel": "6045655",
+    "email": "miguelmartinez.sistemas@gmail.com",
+    "estCivil": "Soltero/a",
+    "cabeFlia": "No",
+    "numPersHogar": "2",
+    "tieneHijos": "No",
+    "numHijos": "",
+    "tienePersonasCargo": "Si",
+    "numeroPersonasCargo": "1",
+    "escolaridad": "Tecnolog\u00eda",
+    "munResidencia": "antioquia",
+    "barrio": "buenos aires",
+    "dirResidencia": "crr 6a 47a-40",
+    "estrato": "3",
+    "zonaUbi": "Urbana",
+    "tipoVivienda": "Arrendada",
+    "hogarComp": "Si",
+    "servInternet": "Si",
+    "grupo_familiar": [
+      {
+        "nombres_grpfam": "cecilia suarez",
+        "tipdocs_grpfam": "Cedula cuidadana",
+        "numdocs_grpfam": "603318",
+        "parens_grpfam": "madre",
+        "oficioescolaridad_grpfam": "independiente",
+        "contactos_grpfam": "312449911"
+      }
+    ],
+    "personasdisca_grpfam": "No",
+    "tipodisca_grpfam": "",
+    "srv_Electrico": "Si",
+    "srv_Acueducto": "Si",
+    "srv_Gas": "Si",
+    "puesto_trabajo": "desarrollador",
+    "dep_Area": "sistemas",
+    "fecha_Ingreso": "20-03-2024",
+    "tipo_contrato": "Indefinido",
+    "jornada_laboral": "Completa",
+    "salario": "40000",
+    "meses_experiencia": "2",
+    "exp_otras_empresas": [
+      {
+        "empresas_exp": "fgdfdf",
+        "cargos_exp": "bhbiuhb",
+        "duraciones_exp": "uohiuhiu"
+      },
+      {
+        "empresas_exp": "ghifdjihhfd",
+        "cargos_exp": "jkcdsflkj",
+        "duraciones_exp": "djdsfoij"
+      }
+    ],
+    "habilidades_competencias": [
+      {
+        "habilidades_competencias": "fgfdfd"
+      },
+      {
+        "habilidades_competencias": "gfgffd"
+      },
+      {
+        "habilidades_competencias": "ggg"
+      },
+      {
+        "habilidades_competencias": "rrr"
+      }
+    ],
+    "idiomas": [
+      {
+        "idioma": "ingles"
+      },
+      {
+        "idioma": "espa\u00f1ol"
+      }
+    ],
+    "eps": "nueva eps",
+    "fondo_de_pensiones": "proteccion",
+    "cesantias": "proteccion",
+    "enfermedad": "Ninguna",
+    "espicifique_enfermedad": "",
+    "tratamiento": "Si",
+    "medicamento": "Si",
+    "controlMedico": "Si",
+    "alergia_medicamento": "Si",
+    "cualalergia_medicamento": "dddd",
+    "medioTrans": "Transporte p\u00fablico",
+    "tiempoTrans": "45 Min",
+    "nomEmg": "cecilia",
+    "parentEmg": "madre",
+    "celEmg": "3124499102",
+    "fumador": "Si",
+    "bebidas_Alcoholicas": "Si",
+    "actividad_Fisica": "Si",
+    "frecuencia_ActFisica": "Si"
+  },
+  {
+    "nombComp": "miguel",
+    "tipoDoc": "Cedula cuidadana",
+    "numDoc": "1090481799",
+    "fechaExp": "26-10-2012",
+    "lugarExp": "cucuta",
+    "fechaNac": "02-10-1994",
+    "lugarNac": "cucuta",
+    "nacionalidad": "colombiana",
+    "genero": "Masculino",
+    "tipoSangre": "O-",
+    "grupoEtnico": "N/A",
+    "numCelular": "3108170825",
+    "numTel": "6045655",
+    "email": "miguelmartinez.sistemas@gmail.com",
+    "estCivil": "Soltero/a",
+    "cabeFlia": "No",
+    "numPersHogar": "2",
+    "tieneHijos": "No",
+    "numHijos": "",
+    "tienePersonasCargo": "Si",
+    "numeroPersonasCargo": "1",
+    "escolaridad": "Tecnolog\u00eda",
+    "munResidencia": "antioquia",
+    "barrio": "buenos aires",
+    "dirResidencia": "crr 6a 47a-40",
+    "estrato": "3",
+    "zonaUbi": "Urbana",
+    "tipoVivienda": "Arrendada",
+    "hogarComp": "Si",
+    "servInternet": "Si",
+    "grupo_familiar": [
+      {
+        "nombres_grpfam": "cecilia suarez",
+        "tipdocs_grpfam": "Cedula cuidadana",
+        "numdocs_grpfam": "603318",
+        "parens_grpfam": "madre",
+        "oficioescolaridad_grpfam": "independiente",
+        "contactos_grpfam": "312449911"
+      }
+    ],
+    "personasdisca_grpfam": "No",
+    "tipodisca_grpfam": "",
+    "srv_Electrico": "Si",
+    "srv_Acueducto": "Si",
+    "srv_Gas": "Si",
+    "puesto_trabajo": "desarrollador",
+    "dep_Area": "sistemas",
+    "fecha_Ingreso": "20-03-2024",
+    "tipo_contrato": "Indefinido",
+    "jornada_laboral": "Completa",
+    "salario": "40000",
+    "meses_experiencia": "2",
+    "exp_otras_empresas": [
+      {
+        "empresas_exp": "fgdfdf",
+        "cargos_exp": "bhbiuhb",
+        "duraciones_exp": "uohiuhiu"
+      },
+      {
+        "empresas_exp": "ghifdjihhfd",
+        "cargos_exp": "jkcdsflkj",
+        "duraciones_exp": "djdsfoij"
+      }
+    ],
+    "habilidades_competencias": [
+      {
+        "habilidades_competencias": "fgfdfd"
+      },
+      {
+        "habilidades_competencias": "gfgffd"
+      },
+      {
+        "habilidades_competencias": "ggg"
+      },
+      {
+        "habilidades_competencias": "rrr"
+      }
+    ],
+    "idiomas": [
+      {
+        "idioma": "ingles"
+      },
+      {
+        "idioma": "espa\u00f1ol"
+      }
+    ],
+    "eps": "nueva eps",
+    "fondo_de_pensiones": "proteccion",
+    "cesantias": "proteccion",
+    "enfermedad": "Ninguna",
+    "espicifique_enfermedad": "",
+    "tratamiento": "Si",
+    "medicamento": "Si",
+    "controlMedico": "Si",
+    "alergia_medicamento": "Si",
+    "cualalergia_medicamento": "dddd",
+    "medioTrans": "Transporte p\u00fablico",
+    "tiempoTrans": "45 Min",
+    "nomEmg": "cecilia",
+    "parentEmg": "madre",
+    "celEmg": "3124499102",
+    "fumador": "Si",
+    "bebidas_Alcoholicas": "Si",
+    "actividad_Fisica": "Si",
+    "frecuencia_ActFisica": "Si"
+  },
+  {
+    "nombComp": "Johan",
+    "tipoDoc": "Cedula de extrangeria",
+    "numDoc": "1",
+    "fechaExp": "12-09-2019",
+    "lugarExp": "Medellin",
+    "fechaNac": "12-01-2001",
+    "lugarNac": "Medellin",
+    "nacionalidad": "Colombiano",
+    "genero": "Masculino",
+    "tipoSangre": "A-",
+    "grupoEtnico": "Ind\u00edgenas",
+    "numCelular": "3006592889",
+    "numTel": "3002986",
+    "email": "johan@gmail.com",
+    "estCivil": "Soltero/a",
+    "cabeFlia": "Si",
+    "numPersHogar": "2",
+    "tieneHijos": "Si",
+    "numHijos": "1",
+    "tienePersonasCargo": "Si",
+    "numeroPersonasCargo": "2",
+    "escolaridad": "Secundaria",
+    "munResidencia": "Medellin",
+    "barrio": "San Pablo",
+    "dirResidencia": "Cl 93 B # 34-50|",
+    "estrato": "2",
+    "zonaUbi": "Urbana",
+    "tipoVivienda": "Arrendada",
+    "hogarComp": "No",
+    "servInternet": "No",
+    "grupo_familiar": [
+      {
+        "nombres_grpfam": "Diego Duque",
+        "tipdocs_grpfam": "Cedula cuidadana",
+        "numdocs_grpfam": "100987287",
+        "parens_grpfam": "Hermano",
+        "oficioescolaridad_grpfam": "Ingeniero",
+        "contactos_grpfam": "3008261298"
+      }
+    ],
+    "personasdisca_grpfam": "Si",
+    "tipodisca_grpfam": "Sensorial",
+    "srv_Electrico": "Si",
+    "srv_Acueducto": "Si",
+    "srv_Gas": "No",
+    "puesto_trabajo": "Auxiliar de sistemas",
+    "dep_Area": "Sistemas",
+    "fecha_Ingreso": "12-09-2022",
+    "tipo_contrato": "Temporal",
+    "jornada_laboral": "Completa",
+    "salario": "1000000",
+    "meses_experiencia": "2",
+    "exp_otras_empresas": [
+      {
+        "empresas_exp": "TP",
+        "cargos_exp": "Analista",
+        "duraciones_exp": "2 A\u00f1os"
+      }
+    ],
+    "habilidades_competencias": [
+      {
+        "habilidades_competencias": "Corro rapido "
+      }
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espa\u00f1ol"
+      }
+    ],
+    "eps": "Sura",
+    "fondo_de_pensiones": "Proteccion",
+    "cesantias": "Proteccion",
+    "enfermedad": "Otros",
+    "espicifique_enfermedad": "Dolor de cabeza",
+    "tratamiento": "No",
+    "medicamento": "Si",
+    "controlMedico": "Si",
+    "alergia_medicamento": "Si",
+    "cualalergia_medicamento": "Asitromicina",
+    "medioTrans": "Autom\u00f3vil",
+    "tiempoTrans": "45 Min",
+    "nomEmg": "Maria Giraldo",
+    "parentEmg": "Mama",
+    "celEmg": "3002812182",
+    "fumador": "Si",
+    "bebidas_Alcoholicas": "No",
+    "actividad_Fisica": "Si",
+    "frecuencia_ActFisica": "Si"
+  },
+  {
+    "nombComp": "miguel",
+    "tipoDoc": "Cedula cuidadana",
+    "numDoc": "3",
+    "fechaExp": "02-10-1994",
+    "lugarExp": "cucuta",
+    "fechaNac": "02-10-1994",
+    "lugarNac": "cucuta",
+    "nacionalidad": "colombiana",
+    "genero": "Masculino",
+    "tipoSangre": "B+",
+    "grupoEtnico": "N/A",
+    "numCelular": "5526738334",
+    "numTel": "2345678",
+    "email": "mkmimidm@hd.com",
+    "estCivil": "Casado/a",
+    "cabeFlia": "No",
+    "numPersHogar": "2",
+    "tieneHijos": "No",
+    "numHijos": "",
+    "tienePersonasCargo": "Si",
+    "numeroPersonasCargo": "2",
+    "escolaridad": "Secundaria",
+    "munResidencia": "antioaqui",
+    "barrio": "buenos aires",
+    "dirResidencia": "crr 76a 54-55",
+    "estrato": "3",
+    "zonaUbi": "Urbana",
+    "tipoVivienda": "Arrendada",
+    "hogarComp": "No",
+    "servInternet": "No",
+    "grupo_familiar": [
+      {
+        "nombres_grpfam": "cecilia",
+        "tipdocs_grpfam": "Cedula cuidadana",
+        "numdocs_grpfam": "54345434",
+        "parens_grpfam": "madre",
+        "oficioescolaridad_grpfam": "gfdgfd",
+        "contactos_grpfam": "1234567890"
+      }
+    ],
+    "personasdisca_grpfam": "No",
+    "tipodisca_grpfam": "",
+    "srv_Electrico": "Si",
+    "srv_Acueducto": "Si",
+    "srv_Gas": "Si",
+    "puesto_trabajo": "hsujisj",
+    "dep_Area": "jjfjfjdjd",
+    "fecha_Ingreso": "30-12-2023",
+    "tipo_contrato": "Indefinido",
+    "jornada_laboral": "Completa",
+    "salario": "46764364",
+    "meses_experiencia": "4",
+    "exp_otras_empresas": [
+      {
+        "empresas_exp": "tbgfvhjhgfd",
+        "cargos_exp": "ffff",
+        "duraciones_exp": "ffddffd"
+      }
+    ],
+    "habilidades_competencias": [
+      {
+        "habilidades_competencias": "ffddd"
+      },
+      {
+        "habilidades_competencias": "dddss"
+      }
+    ],
+    "idiomas": [
+      {
+        "idioma": "ingles"
+      },
+      {
+        "idioma": "espa\u00f1ol"
+      }
+    ],
+    "eps": "hgfddghgfd",
+    "fondo_de_pensiones": "fghjhgfgfd",
+    "cesantias": "vvgfrefeff",
+    "enfermedad": "Hipoglicemia",
+    "espicifique_enfermedad": "",
+    "tratamiento": "Si",
+    "medicamento": "Si",
+    "controlMedico": "Si",
+    "alergia_medicamento": "No",
+    "cualalergia_medicamento": "",
+    "medioTrans": "Bicicleta",
+    "tiempoTrans": "45 Min",
+    "nomEmg": "iuyhrfty",
+    "parentEmg": "tyuuytre",
+    "celEmg": "2233444333",
+    "fumador": "Si",
+    "bebidas_Alcoholicas": "No",
+    "actividad_Fisica": "No",
+    "frecuencia_ActFisica": ""
+  },
+  {
+    "nombComp": "Johan",
+    "tipoDoc": "Cedula de extrangeria",
+    "numDoc": "1",
+    "fechaExp": "12-09-2019",
+    "lugarExp": "Medellin",
+    "fechaNac": "12-01-2001",
+    "lugarNac": "Medellin",
+    "nacionalidad": "Colombiano",
+    "genero": "Masculino",
+    "tipoSangre": "A-",
+    "grupoEtnico": "Ind\u00edgenas",
+    "numCelular": "3006592889",
+    "numTel": "3002986",
+    "email": "johan@gmail.com",
+    "estCivil": "Soltero/a",
+    "cabeFlia": "Si",
+    "numPersHogar": "2",
+    "tieneHijos": "Si",
+    "numHijos": "1",
+    "tienePersonasCargo": "Si",
+    "numeroPersonasCargo": "2",
+    "escolaridad": "Secundaria",
+    "munResidencia": "Medellin",
+    "barrio": "San Pablo",
+    "dirResidencia": "Cl 93 B # 34-50|",
+    "estrato": "2",
+    "zonaUbi": "Urbana",
+    "tipoVivienda": "Arrendada",
+    "hogarComp": "No",
+    "servInternet": "No",
+    "grupo_familiar": [
+      {
+        "nombres_grpfam": "Diego Duque",
+        "tipdocs_grpfam": "Cedula cuidadana",
+        "numdocs_grpfam": "100987287",
+        "parens_grpfam": "Hermano",
+        "oficioescolaridad_grpfam": "Ingeniero",
+        "contactos_grpfam": "3008261298"
+      }
+    ],
+    "personasdisca_grpfam": "Si",
+    "tipodisca_grpfam": "Sensorial",
+    "srv_Electrico": "Si",
+    "srv_Acueducto": "Si",
+    "srv_Gas": "No",
+    "puesto_trabajo": "Auxiliar de sistemas",
+    "dep_Area": "Sistemas",
+    "fecha_Ingreso": "12-09-2022",
+    "tipo_contrato": "Temporal",
+    "jornada_laboral": "Completa",
+    "salario": "1000000",
+    "meses_experiencia": "2",
+    "exp_otras_empresas": [
+      {
+        "empresas_exp": "TP",
+        "cargos_exp": "Analista",
+        "duraciones_exp": "2 A\u00f1os"
+      }
+    ],
+    "habilidades_competencias": [
+      {
+        "habilidades_competencias": "Corro rapido "
+      }
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espa\u00f1ol"
+      }
+    ],
+    "eps": "Sura",
+    "fondo_de_pensiones": "Proteccion",
+    "cesantias": "Proteccion",
+    "enfermedad": "Otros",
+    "espicifique_enfermedad": "Dolor de cabeza",
+    "tratamiento": "No",
+    "medicamento": "Si",
+    "controlMedico": "Si",
+    "alergia_medicamento": "Si",
+    "cualalergia_medicamento": "Asitromicina",
+    "medioTrans": "Autom\u00f3vil",
+    "tiempoTrans": "45 Min",
+    "nomEmg": "Maria Giraldo",
+    "parentEmg": "Mama",
+    "celEmg": "3002812182",
+    "fumador": "Si",
+    "bebidas_Alcoholicas": "No",
+    "actividad_Fisica": "Si",
+    "frecuencia_ActFisica": "Si"
+  },
+  {
+    "nombComp": "Johan",
+    "tipoDoc": "Cedula de extrangeria",
+    "numDoc": "1",
+    "fechaExp": "12-09-2019",
+    "lugarExp": "Medellin",
+    "fechaNac": "12-01-2001",
+    "lugarNac": "Medellin",
+    "nacionalidad": "Colombiano",
+    "genero": "Masculino",
+    "tipoSangre": "A-",
+    "grupoEtnico": "Ind\u00edgenas",
+    "numCelular": "3006592889",
+    "numTel": "3002986",
+    "email": "johan@gmail.com",
+    "estCivil": "Soltero/a",
+    "cabeFlia": "Si",
+    "numPersHogar": "2",
+    "tieneHijos": "Si",
+    "numHijos": "1",
+    "tienePersonasCargo": "Si",
+    "numeroPersonasCargo": "2",
+    "escolaridad": "Secundaria",
+    "munResidencia": "Medellin",
+    "barrio": "San Pablo",
+    "dirResidencia": "Cl 93 B # 34-50|",
+    "estrato": "2",
+    "zonaUbi": "Urbana",
+    "tipoVivienda": "Arrendada",
+    "hogarComp": "No",
+    "servInternet": "No",
+    "grupo_familiar": [
+      {
+        "nombres_grpfam": "Diego Duque",
+        "tipdocs_grpfam": "Cedula cuidadana",
+        "numdocs_grpfam": "100987287",
+        "parens_grpfam": "Hermano",
+        "oficioescolaridad_grpfam": "Ingeniero",
+        "contactos_grpfam": "3008261298"
+      }
+    ],
+    "personasdisca_grpfam": "Si",
+    "tipodisca_grpfam": "Sensorial",
+    "srv_Electrico": "Si",
+    "srv_Acueducto": "Si",
+    "srv_Gas": "No",
+    "puesto_trabajo": "Auxiliar de sistemas",
+    "dep_Area": "Sistemas",
+    "fecha_Ingreso": "12-09-2022",
+    "tipo_contrato": "Temporal",
+    "jornada_laboral": "Completa",
+    "salario": "1000000",
+    "meses_experiencia": "2",
+    "exp_otras_empresas": [
+      {
+        "empresas_exp": "TP",
+        "cargos_exp": "Analista",
+        "duraciones_exp": "2 A\u00f1os"
+      }
+    ],
+    "habilidades_competencias": [
+      {
+        "habilidades_competencias": "Corro rapido "
+      }
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espa\u00f1ol"
+      }
+    ],
+    "eps": "Sura",
+    "fondo_de_pensiones": "Proteccion",
+    "cesantias": "Proteccion",
+    "enfermedad": "Otros",
+    "espicifique_enfermedad": "Dolor de cabeza",
+    "tratamiento": "No",
+    "medicamento": "Si",
+    "controlMedico": "Si",
+    "alergia_medicamento": "Si",
+    "cualalergia_medicamento": "Asitromicina",
+    "medioTrans": "Autom\u00f3vil",
+    "tiempoTrans": "45 Min",
+    "nomEmg": "Maria Giraldo",
+    "parentEmg": "Mama",
+    "celEmg": "3002812182",
+    "fumador": "Si",
+    "bebidas_Alcoholicas": "No",
+    "actividad_Fisica": "Si",
+    "frecuencia_ActFisica": "Si"
+  }
+]
