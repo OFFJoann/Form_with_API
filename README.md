@@ -7,21 +7,21 @@ This project involves a basic, adaptable form created using React technology. It
 Execution instructions
 
 Download repository
-  'git clone git@github.com:OFFJoann/Form_with_API.git'
+  ```git clone git@github.com:OFFJoann/Form_with_API.git```
 
 Frontend: 
-  '''
+  ```
   cd Form_with_API/Frontend
   npm install
   npm start
-  '''
+  ```
 
 Backend:
-  '''
+  ```
   cd Form_with_API/Backend
   pip install -r requeriments.txt
   uvicorn main:app --reload
-  '''
+  ```
 
 I hope it works for you and you can easily adapt it to your projects, greetings
 
